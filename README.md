@@ -5,3 +5,4 @@ C:\Users\HP\Documents\GitHub\portfolio-repo-\.lovable\plan.md
 "C:\Users\HP\Desktop\ziped unlocked\.tanstack"
 "C:\Users\HP\Desktop\ziped unlocked\.workspace\.git"
 "C:\Users\HP\Desktop\ziped unlocked\src"
+"C:\Users\HP\Desktop\ziped unlocked\supabase"
